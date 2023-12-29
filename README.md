@@ -1,8 +1,8 @@
-Nama     : Yoga Pratama
+Nama      : Yoga Pratama
 
-Nim      : 312210042 
+Nim     	: 312210042 
 
-Kelas    : TI.22.A1
+Kelas     : TI.22.A1
 
 File Diatas adalah dari file dari sistem pemesanan restoran yang saya modifikasi menjadi website Resto Barokah Buatan Saya.
 
@@ -33,7 +33,7 @@ Note : Pembeli tidak Perlu login untuk memesan makananan.
 |  Level  |      Username     | Password |
 |:-------:|:-----------------:|---------:|
 | Admin   |  admin@gmail.com  | admin    |
-| Pegawai |  riza@gmail.co    | riza123  |
+| Pegawai |  riza@gmail.com   | riza123  |
 
 ## Sistem Requirement
 - CodeIgniter

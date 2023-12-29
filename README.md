@@ -21,12 +21,13 @@ File Diatas adalah dari file dari sistem pemesanan restoran yang saya modifikasi
 ![ss 3](https://github.com/yogafrtm25/Sistem-Pemesanan-Restoran-New/assets/115678171/cc378082-f989-489e-b686-79d1c8d844a5)
 ![ss 4](https://github.com/yogafrtm25/Sistem-Pemesanan-Restoran-New/assets/115678171/7dcddebc-c144-4838-b4ac-a4830e85f6ae)
 
+Note : Pembeli tidak Perlu login untuk memesan makananan.
+
 ## Gambar Wesbsite Admin 
 
 ![ss admin](https://github.com/yogafrtm25/Sistem-Pemesanan-Restoran-New/assets/115678171/1a9f9634-f309-4a57-8624-d7e763462495)
 
 
-Note : Pembeli tidak Perlu login untuk memesan makananan.
 
 ## Admin Account
 |  Level  |      Username     | Password |

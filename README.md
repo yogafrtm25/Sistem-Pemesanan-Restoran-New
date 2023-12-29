@@ -6,6 +6,9 @@ Kelas     : TI.22.A1
 
 File Diatas adalah dari file dari sistem pemesanan restoran yang saya modifikasi menjadi website Resto Barokah Buatan Saya.
 
+Note : * Pembeli tidak Perlu login untuk memesan makananan
+			 * Code ada di bagian File diatas
+
 # Sistem-Pemesana-Restoran-new
 
 # Resto Barokah 

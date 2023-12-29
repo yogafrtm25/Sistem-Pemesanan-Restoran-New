@@ -1,13 +1,18 @@
 Nama      : Yoga Pratama
 
-Nim     	: 312210042 
+Nim       : 312210042 
 
 Kelas     : TI.22.A1
 
 File Diatas adalah dari file dari sistem pemesanan restoran yang saya modifikasi menjadi website Resto Barokah Buatan Saya.
 
-Note : * Pembeli tidak Perlu login untuk memesan makananan
-			 * Code ada di bagian File diatas
+Note : 
+
+• Pembeli tidak Perlu login untuk memesan makanana
+
+• Code ada di bagian File diatas
+
+• Link Penjelasan Aplikasinya (Demo): https://youtu.be/Gop1whs1SQ4?si=eMeKUCH-ww4adWrI
 
 # Sistem-Pemesana-Restoran-new
 
